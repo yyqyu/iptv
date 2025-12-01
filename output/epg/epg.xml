@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20251201062628 +0800">
+<tv date="20251201065524 +0800">
 	<channel id="CCTV1">
 		<display-name lang="zh">CCTV1</display-name>
 	</channel>
@@ -10043,6 +10043,9 @@
 	</programme>
 	<programme channel="超级电影" start="20251201115400 +0800" stop="20251201132000 +0800">
 		<title lang="zh">电影《酒剑》</title>
+	</programme>
+	<programme channel="超级电影" start="20251201132000 +0800" stop="20251201145100 +0800">
+		<title lang="zh">电影《妈妈你真棒》</title>
 	</programme>
 	<channel id="超级电视剧">
 		<display-name lang="zh">超级电视剧</display-name>
